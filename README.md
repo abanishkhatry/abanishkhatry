@@ -13,7 +13,7 @@
 ### 🔍 About Me
 
 - 🧑‍💻 **CS major** with minors in **Data Science, Consulting, and Entrepreneurship**
-- 💬 I love building scalable, user-centered solutions—from backend infrastructure to sleek mobile apps
+- 💬 Passionate about building data-driven solutions, merging backend systems with AI/ML models to enhance user experience and decision-making
 
 ---
 
