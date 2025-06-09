@@ -5,7 +5,7 @@
   <br>
   💡 Exploring Full-Stack Dev, Mobile Apps, and AI/ML  
   <br>
-  🌱 From Nepal | Building apps with real-world impact
+  🌱 Building apps with real-world impact
 </p>
 
 ---
