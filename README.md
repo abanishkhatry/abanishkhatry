@@ -17,8 +17,6 @@
 
 ---
 
----
-
 ### 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/abanishkhatry)
