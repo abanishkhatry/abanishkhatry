@@ -17,6 +17,18 @@
 
 ---
 
+---
+
+### 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/abanishkhatry)
+- 📧 khatriavanish@gmail.com
+- 🌐 Portfolio: coming soon!
+- 📄 [View My Resume](https://github.com/abanishkhatry/resume/blob/main/Abanish_Khatry_Resume.pdf)
+
+---
+
+
 ### 🚀 What I’m Working On
 
 - 🧠 **Software Developer @ ICICLE AI Institute**  
@@ -41,16 +53,6 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,nodejs,express,flask,fastapi,postgres,mongodb,firebase,docker,html,css,figma,git" />
 </p>
 
----
-
-### 📫 Connect With Me
-
-- 🔗 [LinkedIn](https://linkedin.com/in/abanishkhatry)
-- 📧 khatriavanish@gmail.com
-- 🌐 Portfolio: coming soon!
-- 📄 [View My Resume](https://github.com/abanishkhatry/resume/blob/main/Abanish_Khatry_Resume.pdf)
-
----
 
 ---
 
