@@ -21,7 +21,7 @@
 
 - 🔗 [LinkedIn](https://linkedin.com/in/abanishkhatry)
 - 📧 khatriavanish@gmail.com
-- 🌐 Portfolio: coming soon!
+- 🌐[My Website](https://abanishkhatry.vercel.app/)
 - 📄 [View My Resume](https://github.com/abanishkhatry/resume/blob/main/Abanish_Khatry_Resume.pdf)
 
 ---
