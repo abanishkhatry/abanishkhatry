@@ -20,7 +20,7 @@
 ### 📫 Connect With Me
 
 - 📄 [View My Resume](https://github.com/abanishkhatry/resume/blob/main/Abanish_Khatry_Resume.pdf)
-- 🌐[My Website](https://abanishkhatry.vercel.app/)
+- 🌐 [My Website](https://abanishkhatry.vercel.app/)
 - 🔗 [LinkedIn](https://linkedin.com/in/abanishkhatry)
 - 📧 khatriavanish@gmail.com
 
