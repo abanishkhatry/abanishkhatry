@@ -40,8 +40,8 @@
   [🔗 MovieShare GitHub](https://github.com/abanishkhatry/movieshare)
 
 - 🛡️ **Rate-Limited API Gateway**
-→ Scalable gateway with Flask and **Redis** using token bucket algorithm for per-user request throttling
- [🔗 Rate-Limited API Gateway GitHub](https://github.com/abanishkhatry/Rate-Limited-API-Gateway)
+  → Scalable gateway with Flask and **Redis** using token bucket algorithm for per-user request throttling
+  [🔗 Rate-Limited API Gateway GitHub](https://github.com/abanishkhatry/Rate-Limited-API-Gateway)
 
 - ❤️ **DonorMatch Web App**  
   → Secure full-stack donation app with **React**, **Express**, **JWT**, and **MongoDB**  
