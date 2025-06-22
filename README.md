@@ -27,14 +27,6 @@
 ---
 
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,nodejs,express,flask,fastapi,postgres,mongodb,firebase,docker,html,css,figma,git" />
-</p>
-
----
-
 ### 🚀 What I’m Working On
 
 - 🧠 **Software Developer @ ICICLE AI Institute**  
@@ -52,6 +44,15 @@
   [🔗 DonorMatch GitHub](https://github.com/abanishkhatry/donormatch)
 
 ---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,nodejs,express,flask,fastapi,postgres,mongodb,firebase,docker,html,css,figma,git" />
+</p>
+
+---
+
 
 ---
 
