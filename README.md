@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Abanish Khatry</h1>
 
 <p align="center">
-  🎓 Sophomore @ <strong>University of Wisconsin–Madison</strong>  
+  🎓 Rising Junior @ <strong>University of Wisconsin–Madison</strong>  
   <br>
   💡 Exploring Full-Stack Dev, Mobile Apps, and AI/ML  
   <br>
