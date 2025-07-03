@@ -29,10 +29,10 @@
 
 ### 🚀 What I’m Working On
 
-- 🧠 **Software Developer @ ICICLE AI Institute**  
+- 🧠 **Software Engineer Intern @ ICICLE AI Institute**  
   → Full-stack app with **FastAPI**, **React**, **PostgreSQL**, and **Docker** for food access prediction
 
-- 🌾 **Team Lead @ Farm2Facts**  
+- 🌾 **Software Engineering Team Lead @ Farm2Facts**  
   → Bilingual platform using **Vue.js**, **Flask**, and **Pandas** that’s helping 500+ Wisconsin farmers
 
 - 🎬 **MovieShare App**  
