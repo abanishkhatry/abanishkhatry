@@ -19,7 +19,7 @@
 
 ### 📫 Connect With Me
 
-- 📄 [View My Resume](https://drive.google.com/file/d/15QhcJnKMBMZEs7I6VTDoe69BYuWCYn6L/view?usp=drive_link)
+- 📄 [View My Resume]([https://drive.google.com/file/d/15QhcJnKMBMZEs7I6VTDoe69BYuWCYn6L/view?usp=drive_link](https://drive.google.com/file/d/1kD30vKGAB50s2pcGGRhBCc8BK8E3COns/view?usp=sharing))
 - 🌐 [My Website](https://abanishkhatry.vercel.app/)
 - 🔗 [LinkedIn](https://linkedin.com/in/abanishkhatry)
 - 📧 khatriavanish@gmail.com
