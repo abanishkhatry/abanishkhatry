@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Junior @ <strong>University of Wisconsin–Madison</strong>  
   <br>
-  💡 Exploring Full-Stack Dev, Mobile Apps, and AI/ML  
+  💡 Exploring Cloud Security and Big Data Systems
   <br>
   🌱 Building apps with real-world impact
 </p>
@@ -45,7 +45,7 @@
 
 - 🔍 **TradeGuard**  
   → Real-time fraud detection with **Kafka**, **PySpark**, and **Scikit-learn**, featuring risk scoring and **PostgreSQL** dashboards
-  [🔗 TradeGuard GitHub](https://github.com/abanishkhatry/donormatch](https://github.com/abanishkhatry/TradeGuard )
+  🔗 [TradeGuard GitHub](https://github.com/abanishkhatry/donormatch](https://github.com/abanishkhatry/TradeGuard )
 
 ---
 
