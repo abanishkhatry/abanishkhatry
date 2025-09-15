@@ -29,11 +29,11 @@
 
 ### 🚀 What I’m Working On
 
-- 🧠 **Software Engineer Intern @ ICICLE AI Institute**  
-  → Full-stack app with **FastAPI**, **React**, **PostgreSQL**, and **Docker** for food access prediction
-
 - 🌾 **Software Engineering Team Lead @ Farm2Facts**  
   → Bilingual platform using **Vue.js**, **Flask**, and **Pandas** that’s helping 500+ Wisconsin farmers
+
+- 👨‍🏫 **Peer Mentor @ UW Madison**  
+  → Taught 150+ students React, React Native, and JavaScript, offering debugging help, demos, and accessibility practices to strengthen projects and engagement.
 
 - 🎬 **MovieShare App**  
   → Social platform for movie fans with **AI taste matching** and **media uploads**  
@@ -43,9 +43,9 @@
   → Scalable gateway with Flask and **Redis** using token bucket algorithm for per-user request throttling  
   🔗 [Rate-Limited API Gateway GitHub](https://github.com/abanishkhatry/Rate-Limited-API-Gateway)
 
-- ❤️ **DonorMatch Web App**  
-  → Secure full-stack donation app with **React**, **Express**, **JWT**, and **MongoDB**  
-  [🔗 DonorMatch GitHub](https://github.com/abanishkhatry/donormatch)
+- 🔍 **TradeGuard**  
+  → Real-time fraud detection with **Kafka**, **PySpark**, and **Scikit-learn**, featuring risk scoring and **PostgreSQL** dashboards
+  [🔗 TradeGuard GitHub](https://github.com/abanishkhatry/donormatch](https://github.com/abanishkhatry/TradeGuard )
 
 ---
 
