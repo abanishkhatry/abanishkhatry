@@ -13,7 +13,7 @@
 ### 🔍 About Me
 
 - 🧑‍💻 **CS major** with minors in **Data Science, Consulting, and Entrepreneurship**
-- 💬 Passionate about building data-driven solutions, merging backend systems with AI/ML models to enhance user experience and decision-making
+- 💬 Transforming backend systems with cloud security and big data pipelines, integrating AI/ML to drive insights and enhance user trust.
 
 ---
 
